@@ -1,0 +1,11 @@
+# GoLand-specific directories
+.idea/
+
+# Compiled files
+*.exe
+*.out
+*.test
+*.prof
+
+# Dependency directories
+vendor/
